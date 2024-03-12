@@ -1,0 +1,13 @@
+.miancontainer {
+  background: pink;
+  padding: 5%;
+  text-align: center;
+  font-family: fantasy;
+}
+
+@media only screen and (max-width: 480px) {
+  .miancontainer {
+    height: 216px;
+    line-height: 216px;
+  }
+}
